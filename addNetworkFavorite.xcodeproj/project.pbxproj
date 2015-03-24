@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8A69CC751AC05C710053BE5A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A69CC741AC05C710053BE5A /* main.m */; };
+		8A69CC801AC07BF90053BE5A /* NetFS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8A69CC7F1AC07BF90053BE5A /* NetFS.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		8A69CC711AC05C710053BE5A /* addNetworkFavorite */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = addNetworkFavorite; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A69CC741AC05C710053BE5A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8A69CC7F1AC07BF90053BE5A /* NetFS.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NetFS.framework; path = System/Library/Frameworks/NetFS.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +34,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A69CC801AC07BF90053BE5A /* NetFS.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -41,6 +44,7 @@
 		8A69CC681AC05C710053BE5A = {
 			isa = PBXGroup;
 			children = (
+				8A69CC7F1AC07BF90053BE5A /* NetFS.framework */,
 				8A69CC731AC05C710053BE5A /* addNetworkFavorite */,
 				8A69CC721AC05C710053BE5A /* Products */,
 			);

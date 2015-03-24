@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B3151D2C-0E7F-43BF-BD75-E73EBAC6D574</string>
+	<key>IDESourceControlProjectName</key>
+	<string>addNetworkFavorite</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>906DA6B62C16D7F803D237D4712D6257117C4A5C</key>
+		<string>https://github.com/kkapsner/addNetworkFavorite.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>addNetworkFavorite.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>906DA6B62C16D7F803D237D4712D6257117C4A5C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kkapsner/addNetworkFavorite.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>906DA6B62C16D7F803D237D4712D6257117C4A5C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>906DA6B62C16D7F803D237D4712D6257117C4A5C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>addNetworkFavorite</string>
+		</dict>
+	</array>
+</dict>
+</plist>
